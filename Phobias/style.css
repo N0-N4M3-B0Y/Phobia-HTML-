@@ -7,3 +7,12 @@ body{
     text-decoration: underline;
     color: #a60017;
 }
+.aboutPhobias{
+    font-family: 'Poppins', sans-serif;
+}
+#aboutPhobiasParagraph{
+    font-size: 100%;
+    background-color:#daf3f7 ;
+    border-style: solid;
+    border-width: 0.2rem;
+}
